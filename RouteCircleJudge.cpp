@@ -31,7 +31,7 @@ int main() {
 
     cin >> moves;
 
-    cout << judeCircle(moves) << endl;
+    cout << judgeCircle(moves) << endl;
 
     return 0;
 }
